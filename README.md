@@ -25,6 +25,8 @@ Our paper on [ACL Anthology](https://aclanthology.org/2021.emnlp-main.356/) and 
 
 ## Data
 
+**Note:If the first goal is "Greetings/寒暄", the seeker starts the conversation, otherwise, the user starts the conversation.**
+
 An example of the conversation in DuRecDial 2.0:
 
 ![example](figs/example8-1.png)
