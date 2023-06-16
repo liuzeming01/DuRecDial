@@ -59,10 +59,10 @@ If DuRecDial is helpful to your research, please kindly cite our papers:
   author={Liu, Zeming and Zhou, Ding and Liu, Hao and Wang, Haifeng and Niu, Zheng-Yu and Wu, Hua and Che, Wanxiang and Liu, Ting and Xiong, Hui},
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
   title={Graph-Grounded Goal Planning for Conversational Recommendation}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-1},
+  year={2023},
+  volume={35},
+  number={5},
+  pages={4923-4939},
   doi={10.1109/TKDE.2022.3147210}}
 ```
 
