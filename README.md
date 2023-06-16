@@ -63,7 +63,8 @@ If DuRecDial is helpful to your research, please kindly cite our papers:
   volume={35},
   number={5},
   pages={4923-4939},
-  doi={10.1109/TKDE.2022.3147210}}
+  doi={10.1109/TKDE.2022.3147210}
+  }
 ```
 
 
